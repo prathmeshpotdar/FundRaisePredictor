@@ -1,0 +1,3 @@
+Your IPFS CID to store on-chain is: QmVSkTuE7iYNokTiQ9fpNa9tyGAzunxWjDPVNV8Uqtj4F8
+You will use this CID in the next step (Solidity/Smart Contract).
+
